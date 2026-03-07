@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fir_001_english",
+    "instruction": "Explain this FIR document in simple English for a common citizen",
+    "input": "FIRST INFORMATION REPORT\nPolice Station: Connaught Place Police Station\nDistrict: New Delhi\nState: Delhi\nDate: 15th October 2024\nFIR No: 234/2024\n\nCOMPLAINANT DETAILS:\nName: Rajesh Kumar\nAge: 45 years\nAddress: 123, Janpath Road, New Delhi\nOccupation: Businessman\n\nACCUSED DETAILS:\nName: Amit Sharma\nAddress: 456, Lodhi Road, New Delhi\n\nDETAILS OF OFFENCE:\nSections of Law: IPC Section 420 (Cheating), Section 406 (Criminal Breach of Trust)\n\nBRIEF FACTS:\nThe complainant states that the accused Amit Sharma approached him in June 2024 with a business proposal to invest in a real estate project. The complainant invested Rs. 25,00,000/- (Twenty Five Lakhs) based on false promises and forged documents shown by the accused.\n\nDespite repeated requests, the accused has neither returned the invested amount nor provided any returns on investment. The accused has been avoiding the complainant and has stopped responding to calls and messages since August 2024.\n\nThe complainant has submitted copies of bank transfer receipts, WhatsApp conversations, and email communications as evidence.\n\nAction Taken: Case registered under IPC Section 420 and 406. Investigation assigned to Inspector Sharma.",
+    "output": "Case Summary:\nThis is a case of cheating and criminal breach of trust where a businessman invested Rs. 25 lakhs in a real estate project based on false promises, and the accused has neither returned the money nor provided returns.\n\nParties Involved:\n- Complainant: Rajesh Kumar (45-year-old businessman who invested money)\n- Accused: Amit Sharma (Person who allegedly cheated and breached trust)\n\nCurrent Stage:\nFIR has been registered - this is the first stage of the case. Police investigation has begun.\n\nWhat Usually Happens Next:\n1. Police will collect evidence and interrogate the accused\n2. Accused may be arrested if sufficient evidence is found\n3. Accused will be presented before the court\n4. Case trial will proceed - typically takes 6-18 months\n\nAvailable Options:\n- Continue with Case: Proceed with police investigation and court proceedings (Recommended)\n- Mediation/Lok Adalat: Attempt settlement if both parties agree\n- Legal Aid: Apply for free legal assistance if financially weak (Recommended)\n\nLegal Sections:\n- IPC Section 420: Cheating - Punishment up to 7 years\n- IPC Section 406: Criminal breach of trust - Punishment up to 3 years\n\nTypical Timeline:\nCases of this nature typically take 12-18 months",
+    "metadata": {
+      "document_type": "FIR",
+      "language": "english",
+      "case_category": "fraud",
+      "complexity": "medium",
+      "sections": ["IPC 420", "IPC 406"]
+    }
+  },
+  {
+    "id": "fir_002_hindi",
+    "instruction": "इस FIR दस्तावेज़ को सरल हिंदी में समझाएं",
+    "input": "प्रथम सूचना रिपोर्ट\nथाना: कनॉट प्लेस पुलिस स्टेशन\nजिला: नई दिल्ली\nराज्य: दिल्ली\nदिनांक: 15 अक्टूबर 2024\nFIR संख्या: 234/2024\n\nशिकायतकर्ता विवरण:\nनाम: राजेश कुमार\nआयु: 45 वर्ष\nपता: 123, जनपथ रोड, नई दिल्ली\nपेशा: व्यवसायी\n\nआरोपी विवरण:\nनाम: अमित शर्मा\nपता: 456, लोधी रोड, नई दिल्ली\n\nअपराध का विवरण:\nकानून की धाराएं: IPC धारा 420 (धोखाधड़ी), धारा 406 (आपराधिक विश्वासघात)\n\nसंक्षिप्त तथ्य:\nशिकायतकर्ता का कहना है कि आरोपी अमित शर्मा ने जून 2024 में उनसे संपर्क किया और एक रियल एस्टेट परियोजना में निवेश का प्रस्ताव दिया। शिकायतकर्ता ने झूठे वादों और जाली दस्तावेजों के आधार पर 25 लाख रुपये का निवेश किया।\n\nबार-बार अनुरोध के बावजूद, आरोपी ने न तो निवेश की गई राशि वापस की और न ही निवेश पर कोई रिटर्न दिया। आरोपी अगस्त 2024 से शिकायतकर्ता से बच रहा है और कॉल और संदेशों का जवाब नहीं दे रहा है।\n\nशिकायतकर्ता ने बैंक ट्रांसफर रसीदों, व्हाट्सएप बातचीत और ईमेल संचार की प्रतियां साक्ष्य के रूप में प्रस्तुत की हैं।\n\nकार्रवाई: IPC धारा 420 और 406 के तहत मामला दर्ज किया गया। जांच इंस्पेक्टर शर्मा को सौंपी गई।",
+    "output": "मामले का सारांश:\nयह धोखाधड़ी और विश्वासघात का मामला है जहां एक व्यवसायी ने रियल एस्टेट परियोजना में 25 लाख रुपये का निवेश किया, लेकिन आरोपी ने झूठे वादे किए और पैसे वापस नहीं किए।\n\nपक्षकार:\n- शिकायतकर्ता: राजेश कुमार (45 वर्षीय व्यवसायी जिसने निवेश किया)\n- आरोपी: अमित शर्मा (कथित धोखाधड़ी और विश्वासघात करने वाला)\n\nवर्तमान स्थिति:\nFIR दर्ज की गई है - यह मामले का पहला चरण है। पुलिस जांच शुरू हो गई है।\n\nआगे क्या होगा:\n1. पुलिस साक्ष्य इकट्ठा करेगी और आरोपी से पूछताछ करेगी\n2. यदि पर्याप्त सबूत मिलते हैं तो आरोपी को गिरफ्तार किया जा सकता है\n3. आरोपी को न्यायालय के समक्ष पेश किया जाएगा\n4. मामले की सुनवाई होगी - आमतौर पर 6-18 महीने लगते हैं\n\nउपलब्ध विकल्प:\n- मामला जारी रखें: पुलिस जांच और न्यायालय की कार्यवाही जारी रखें (सुझाया गया)\n- मध्यस्थता/लोक अदालत: यदि दोनों पक्ष सहमत हों तो समझौता करने का प्रयास करें\n- कानूनी सहायता: यदि आर्थिक रूप से कमजोर हैं तो मुफ्त कानूनी सहायता के लिए आवेदन करें (सुझाया गया)\n\nकानूनी धाराएं:\n- IPC धारा 420: धोखाधड़ी - 7 साल तक की सजा\n- IPC धारा 406: आपराधिक विश्वासघात - 3 साल तक की सजा\n\nसामान्य समयसीमा:\nइस प्रकार के मामलों में आमतौर पर 12-18 महीने लगते हैं",
+    "metadata": {
+      "document_type": "FIR",
+      "language": "hindi",
+      "case_category": "fraud",
+      "complexity": "medium",
+      "sections": ["IPC 420", "IPC 406"]
+    }
+  },
+  {
+    "id": "court_order_001",
+    "instruction": "Explain this court order in simple language",
+    "input": "IN THE HIGH COURT OF DELHI\nCivil Writ Petition No. 1234/2024\nPetitioner: Sunita Devi vs Respondent: Municipal Corporation of Delhi\n\nORDER\nDate: 15th October 2024\n\nThe court has examined the petition filed by the petitioner challenging the demolition notice dated 1st October 2024 issued by the respondent Municipal Corporation.\n\nThe petitioner has submitted that she has been residing in the property for the past 20 years and holds valid documents supporting her claim.\n\nThe court hereby directs:\n1. The proposed demolition is stayed for a period of 30 days from today\n2. The respondent shall file a detailed reply within 15 days\n3. The next hearing is scheduled for 15th November 2024\n4. If the respondent fails to comply with these directions, the demolition notice shall stand cancelled\n\nAll parties are directed to maintain status quo until the next hearing.",
+    "output": "Case Summary:\nThis is a court order about a demolition notice dispute. Sunita Devi has challenged a demolition notice from Municipal Corporation.\n\nParties Involved:\n- Petitioner: Sunita Devi (challenging the notice)\n- Respondent: Municipal Corporation of Delhi (issued the notice)\n\nCurrent Stage:\nCourt has issued an interim order - this provides temporary relief while the case is being heard.\n\nCourt's Decision:\n- Demolition is stopped for 30 days\n- Municipal Corporation must respond within 15 days\n- Next hearing on 15th November 2024\n- If corporation doesn't respond, notice will be cancelled\n\nWhat This Means:\nThe demolition cannot happen for at least 30 days. The court will hear both sides on the next date before making a final decision.\n\nWhat You Should Do:\n1. Keep attending all court hearings\n2. Ensure your lawyer files all required documents\n3. Maintain the property as it is (status quo)\n4. If the other party doesn't respond, the notice may be cancelled\n\nTypical Timeline:\nMatter will be heard again in 30 days. Final decision depends on both parties' arguments and evidence.",
+    "metadata": {
+      "document_type": "COURT_ORDER",
+      "language": "english",
+      "case_category": "civil",
+      "complexity": "medium"
+    }
+  },
+  {
+    "id": "legal_notice_001",
+    "instruction": "Explain this legal notice",
+    "input": "LEGAL NOTICE\n\nTo: Mr. Anil Verma\nAddress: 789, Sector 15, Noida\n\nFrom: Ms. Priya Sharma\nThrough: Advocate Rajiv Kumar\nAddress: 123, Lawyers Chamber, District Court, Delhi\n\nDate: 10th October 2024\n\nSubject: Non-payment of loan amount of Rs. 5,00,000/-\n\nDear Sir,\n\nUnder instructions from my client Ms. Priya Sharma, I am serving you this legal notice for the following reasons:\n\n1. My client lent you Rs. 5,00,000/- (Five Lakhs Only) on 1st January 2024 as per loan agreement dated the same day.\n\n2. As per the agreement, you were required to repay the full amount by 1st July 2024.\n\n3. Despite repeated requests and reminders, you have failed to repay the amount or any part thereof.\n\n4. This constitutes a breach of contract and my client has suffered financial loss.\n\nTherefore, you are hereby called upon to pay the full amount of Rs. 5,00,000/- along with interest at 12% per annum within 15 days from the date of receipt of this notice.\n\nIf you fail to comply with this demand, my client will be constrained to file a civil suit for recovery of the amount along with interest, costs, and damages, without any further notice to you.\n\nYours faithfully,\nAdvocate Rajiv Kumar",
+    "output": "Case Summary:\nThis is a legal notice about an unpaid loan. Priya Sharma (lender) claims Anil Verma (borrower) owes 5 lakh rupees that was due in July 2024.\n\nParties Involved:\n- Sender: Priya Sharma (through her lawyer)\n- Recipient: Anil Verma (the borrower)\n\nCurrent Stage:\nPre-litigation stage - This is a formal warning before filing a court case.\n\nWhat's Being Demanded:\n- Pay 5 lakh rupees\n- Plus interest at 12% per year\n- Within 15 days from receiving this notice\n\nWhat Happens Next:\n1. If you pay within 15 days, matter is closed\n2. If you don't pay, a court case may be filed\n3. You can respond through your lawyer if you disagree\n4. You can try to negotiate a settlement\n\nYour Options:\n- Pay the amount if you agree with the claim\n- Send a reply through your lawyer if you disagree\n- Try to negotiate a settlement (payment plan, reduced amount)\n- Prepare for court case if no agreement is reached\n\nImportant:\nRespond within 15 days. Ignoring this notice may lead to a court case where you'll have to defend yourself.\n\nTypical Timeline:\n15 days to respond. If case is filed, it may take 6-12 months for resolution.",
+    "metadata": {
+      "document_type": "LEGAL_NOTICE",
+      "language": "english",
+      "case_category": "civil",
+      "complexity": "simple"
+    }
+  }
+]

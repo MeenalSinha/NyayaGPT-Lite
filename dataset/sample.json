@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sample_fir_001",
+    "instruction": "Explain this FIR document in simple English",
+    "input": "FIRST INFORMATION REPORT\nPolice Station: Connaught Place Police Station\nDistrict: New Delhi\nState: Delhi\nDate: 15th October 2024\nFIR No: 234/2024\n\nCOMPLAINANT DETAILS:\nName: Rajesh Kumar\nAge: 45 years\nAddress: 123, Janpath Road, New Delhi\nOccupation: Businessman\n\nACCUSED DETAILS:\nName: Amit Sharma\nAddress: 456, Lodhi Road, New Delhi\n\nDETAILS OF OFFENCE:\nSections of Law: IPC Section 420 (Cheating), Section 406 (Criminal Breach of Trust)\n\nBRIEF FACTS:\nThe complainant states that the accused approached him in June 2024 with a business proposal to invest in a real estate project. The complainant invested Rs. 25,00,000/- (Twenty Five Lakhs) based on false promises and forged documents.\n\nDespite repeated requests, the accused has neither returned the invested amount nor provided any returns on investment. The accused has been avoiding the complainant since August 2024.\n\nAction Taken: Case registered. Investigation assigned to Inspector Sharma.",
+    "output": "Case Summary:\nThis is a case of cheating and criminal breach of trust where a businessman invested Rs. 25 lakhs in a real estate project based on false promises, and the accused has neither returned the money nor provided returns.\n\nParties Involved:\n- Complainant: Rajesh Kumar (45-year-old businessman)\n- Accused: Amit Sharma\n\nCurrent Stage:\nFIR has been registered - this is the first stage. Police investigation has begun.\n\nWhat Usually Happens Next:\n1. Police will collect evidence and interrogate the accused\n2. Accused may be arrested if sufficient evidence is found\n3. Accused will be presented before the court\n4. Case trial will proceed - typically takes 6-18 months\n\nAvailable Options:\n- Continue with Case: Proceed with police investigation and court proceedings (Recommended)\n- Mediation/Lok Adalat: Attempt settlement if both parties agree\n- Legal Aid: Apply for free legal assistance if financially weak (Recommended)\n\nLegal Sections:\n- IPC Section 420: Cheating - Punishment up to 7 years\n- IPC Section 406: Criminal breach of trust - Punishment up to 3 years\n\nTypical Timeline:\nCases of this nature typically take 12-18 months",
+    "metadata": {
+      "document_type": "FIR",
+      "language": "english",
+      "sections": ["IPC 420", "IPC 406"],
+      "case_category": "fraud",
+      "complexity": "medium"
+    }
+  }
+]
