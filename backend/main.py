@@ -603,12 +603,12 @@ async def upload_pdf(file: UploadFile = File(...)):
             detail=f"Error processing PDF: {exc}",
         )
 
-    finally:
-        # ── Step 5: Delete from S3 immediately after extraction ───────────────
-        # Runs whether the endpoint succeeded or raised an exception,
-        # so the object is never left orphaned in the bucket.
-        if s3_key is not None:
-            delete_s3_object(s3_key)
+    # finally:
+    #     # ── Step 5: Delete from S3 immediately after extraction ───────────────
+    #     # Uncomment for production — deletes the S3 object right after text
+    #     # extraction so nothing is stored long-term.
+    #     if s3_key is not None:
+    #         delete_s3_object(s3_key)
 
 @app.get("/api/document-types")
 async def get_document_types():
