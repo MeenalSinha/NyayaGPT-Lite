@@ -12,7 +12,7 @@ import {
  * Throws on HTTP error so the caller can catch and show an error state.
  */
 async function callExplainAPI(text, language) {
-  const response = await fetch('/api/explain-document', {
+  const response = await fetch(`${import.meta.env.VITE_API_URL}/api/explain-document`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ text, language }),
